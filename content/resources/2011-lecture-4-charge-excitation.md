@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Charge Excitation (PDF - 2.7MB)](resources/mit2_627f13_lec04)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 4: Charge Excitation'
 uid: fa92e7a1-04a6-219a-3954-70ad541a57c2
 video_files:
   archive_url: http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/fa70a5ee536c5df2ad3e6603fddca8ff_iJ_lDszxGDw.vtt
+  video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/fa70a5ee536c5df2ad3e6603fddca8ff_iJ_lDszxGDw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/iJ_lDszxGDw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/73a818d698f94172a9a7a56faf8360d2_iJ_lDszxGDw.pdf
+  video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/73a818d698f94172a9a7a56faf8360d2_iJ_lDszxGDw.pdf
 video_metadata:
   youtube_id: iJ_lDszxGDw
 ---

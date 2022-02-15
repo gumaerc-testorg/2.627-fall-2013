@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the information regarding in-class problems on PN
   junction band formation and ideal diode Equation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/7f52e3806b61cf85e3e909eb4b23d86a_MIT2_627F13_lec07_prob.pdf
+file: /media/courses/2-627-fundamentals-of-photovoltaics-fall-2013/7f52e3806b61cf85e3e909eb4b23d86a_MIT2_627F13_lec07_prob.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Calendar & Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 7: In-class Problems on PN Junction Band Formation and Ideal Diode
   Equation'

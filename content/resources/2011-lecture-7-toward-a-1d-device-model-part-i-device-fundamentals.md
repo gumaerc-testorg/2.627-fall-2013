@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Toward a 1D Device Model, Part I: Device Fundamentals (PDF - 2.2MB)](resources/mit2_627f13_lec07)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 7: Toward a 1D Device Model, Part I: Device Fundamentals'
 uid: 2d17400a-ad2a-50dc-c101-9d6d029c2af4
 video_files:
   archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec07_300k.mp4 '
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/6d28bf5ebc535d4f8438b9dfd0582817_dFF2DuEv-2c.vtt
+  video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/6d28bf5ebc535d4f8438b9dfd0582817_dFF2DuEv-2c.vtt
   video_thumbnail_file: https://img.youtube.com/vi/dFF2DuEv-2c/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/c198c284965ab9daffb20acafd4e2c3b_dFF2DuEv-2c.pdf
+  video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/c198c284965ab9daffb20acafd4e2c3b_dFF2DuEv-2c.pdf
 video_metadata:
   youtube_id: dFF2DuEv-2c
 ---

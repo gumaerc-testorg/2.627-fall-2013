@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Conceptual model of course structure.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/19072bd7636e827bc31b4dd3b36d6274_concpt_model.png
+file: /media/courses/2-627-fundamentals-of-photovoltaics-fall-2013/19072bd7636e827bc31b4dd3b36d6274_concpt_model.png
 file_type: image/png
 image_metadata:
   caption: Conceptual model of course structure.
@@ -9,6 +9,10 @@ image_metadata:
   image-alt: "Diagram of a two-layer rectangle, with base \u201CFundamentals\u201D\
     \ topped by a second layer of smaller blocks in a grid, labeled Themes 1-6 and\
     \ Tech A-E."
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: concpt_model.png
 uid: 19072bd7-636e-827b-c31b-4dd3b36d6274

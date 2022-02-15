@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part I (PDF - 2.8MB)](resources/mit2_627f13_lec18)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 18: Cost, Price, Markets, & Support Mechanisms, Part I '
 uid: 7a876773-5ba2-62a5-ecc3-4c09ff3bab42
 video_files:
   archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec18_300k.mp4 '
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/3e491bb2bc3e583f9f70c740b7c313b9_n25tsUQb3vo.vtt
-  video_thumbnail_file: null
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/bdbc093ceb10abe0b3ac3a03a8c45415_n25tsUQb3vo.pdf
+  video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/3e491bb2bc3e583f9f70c740b7c313b9_n25tsUQb3vo.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/n25tsUQb3vo/default.jpg
+  video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/bdbc093ceb10abe0b3ac3a03a8c45415_n25tsUQb3vo.pdf
 video_metadata:
   youtube_id: n25tsUQb3vo
 ---

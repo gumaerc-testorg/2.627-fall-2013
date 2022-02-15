@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding quiz 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/229c7842abc2d23a3de9c944e49e2303_MIT2_627F13_Quiz1.pdf
+file: /media/courses/2-627-fundamentals-of-photovoltaics-fall-2013/229c7842abc2d23a3de9c944e49e2303_MIT2_627F13_Quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Quizzes
+parent_type: CourseSection
 resourcetype: Document
 title: Fundamentals of Photovoltaics Quiz 1
 uid: 229c7842-abc2-d23a-3de9-c944e49e2303

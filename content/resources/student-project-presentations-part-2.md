@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Assignments
+optional_tab_title: ''
+optional_text: ''
+parent_title: Assignments
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 2011 Student Project Presentations, Part 2
 uid: 0e297b39-9c2e-db8e-452a-2d59a2f01084
 video_files:
   archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_proj02_300k.mp4 '
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/8aaed854eaaa5d9daa9ce894a63fdbe9_a6NFLJ082vI.vtt
+  video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/8aaed854eaaa5d9daa9ce894a63fdbe9_a6NFLJ082vI.vtt
   video_thumbnail_file: https://img.youtube.com/vi/a6NFLJ082vI/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/fd4af19c3c88df229a31f8325b2a4606_a6NFLJ082vI.pdf
+  video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/fd4af19c3c88df229a31f8325b2a4606_a6NFLJ082vI.pdf
 video_metadata:
   youtube_id: a6NFLJ082vI
 ---

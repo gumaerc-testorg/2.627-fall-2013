@@ -2,14 +2,25 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: 'This file contains slides used in both Lectures 10 and 11.
+
+
+  [Wafer Silicon-Based Solar Cells (PDF - 2.7MB)](resources/mit2_627f13_lec10-11)'
+parent_title: Lecture Videos & Slides
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: '2011 Lecture 10: Wafer Silicon-Based Solar Cells, Part I '
 uid: ebb62ed9-b764-2498-94be-c461f86f6758
 video_files:
   archive_url: http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec10_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/072a7254b8145bffa521f249e3c4e88a_9LGLbcjXxqI.vtt
-  video_thumbnail_file: null
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/5c78ef1f02b3513533794cc34501bb45_9LGLbcjXxqI.pdf
+  video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/072a7254b8145bffa521f249e3c4e88a_9LGLbcjXxqI.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/9LGLbcjXxqI/default.jpg
+  video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/5c78ef1f02b3513533794cc34501bb45_9LGLbcjXxqI.pdf
 video_metadata:
   youtube_id: 9LGLbcjXxqI
 ---

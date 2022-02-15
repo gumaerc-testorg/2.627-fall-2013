@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-627-fundamentals-of-photovoltaics-fall-2013/d53e831280fa6a81070ba80231b07027_qIJx2PRGKqw.srt
+file: /media/courses/2-627-fundamentals-of-photovoltaics-fall-2013/d53e831280fa6a81070ba80231b07027_qIJx2PRGKqw.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: d53e8312-80fa-6a81-070b-a80231b07027

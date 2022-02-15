@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 29d1119e-7ba7-1836-0064-dab8e42e5f03
 ---
@@ -19,7 +21,7 @@ In this course, you will learn about the fundamentals of photoelectric conversio
 Course Objectives
 -----------------
 
-By the year 2030, several hundred gigawatts of power must be generated from low-carbon sources to cap atmospheric CO2 concentrations at levels deemed "lower-risk" by the current scientific consensus. The necessity to develop low-carbon energy sources represents not only an awesome technological and engineering challenge, but also an equally large economic opportunity in a trillion-dollar energy market.
+By the year 2030, several hundred gigawatts of power must be generated from low-carbon sources to cap atmospheric CO{{< sub "2" >}} concentrations at levels deemed "lower-risk" by the current scientific consensus. The necessity to develop low-carbon energy sources represents not only an awesome technological and engineering challenge, but also an equally large economic opportunity in a trillion-dollar energy market.
 
 Students will learn how solar cells convert light into electricity, how solar cells are manufactured, how solar cells are evaluated, what technologies are currently on the market, and how to evaluate the risk and potential of existing and emerging solar cell technologies. We examine the potential & drawbacks of currently manufactured technologies (single- and multicrystalline silicon, CdTe, CIGS, CPV), as well as pre-commercial technologies (organics, biomimetic, organic / inorganic hybrid, and nanostructure-based solar cells). Hands-on laboratory sessions explore how a solar cell works in practice. We will learn how to enhance solar cell performance and reduce cost, and the major hurdles–technological, economic, and political–towards widespread adoption. Students will apply this knowledge towards developing a class project on the solar-related topic of their choosing.
 
