@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: 5341b458-4ae2-28e4-a45e-ad39e27ef9c1
 resourcetype: Document
 title: Fundamentals of Photovoltaics Quiz 1
 uid: 229c7842-abc2-d23a-3de9-c944e49e2303

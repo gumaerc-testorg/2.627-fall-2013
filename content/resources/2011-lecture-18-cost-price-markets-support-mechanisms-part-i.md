@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '2011 Lecture 18: Cost, Price, Markets, & Support Mechanisms, Part I '
 uid: 7a876773-5ba2-62a5-ecc3-4c09ff3bab42
 video_files:

@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 29d1119e-7ba7-1836-0064-dab8e42e5f03
 resourcetype: Image
 title: concpt_model.png
 uid: 19072bd7-636e-827b-c31b-4dd3b36d6274

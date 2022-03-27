@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: 5341b458-4ae2-28e4-a45e-ad39e27ef9c1
 resourcetype: Other
 title: Quiz2_3.xlsx
 uid: 1c53bda0-5989-ad1a-4dc8-3939c197ccdf

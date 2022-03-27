@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -24,6 +25,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '2011 Lecture 17: Modules, Systems, and Reliability'
 uid: 0914a6dc-507c-4683-d099-14424f02eed6
 video_files:

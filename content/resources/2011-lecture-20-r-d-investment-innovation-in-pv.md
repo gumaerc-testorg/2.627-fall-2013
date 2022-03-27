@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '2011 Lecture 20: R&D Investment & Innovation in PV '
 uid: 1e6eb884-470d-324f-7c10-6afffae98202
 video_files:

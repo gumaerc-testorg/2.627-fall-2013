@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar & Readings
 parent_type: CourseSection
+parent_uid: a3e8ad1b-6f83-72d1-116a-9727fb53539f
 resourcetype: Document
 title: Background Assessment Quiz
 uid: 6904e119-84ec-9ba7-55f5-6ce340e92c1d

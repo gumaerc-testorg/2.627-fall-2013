@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '2011 Lecture 12: Thin Films: Materials Choices and Manufacturing, Part I '
 uid: 84e9deeb-95d8-9e05-7fed-aab1910fec49
 video_files:

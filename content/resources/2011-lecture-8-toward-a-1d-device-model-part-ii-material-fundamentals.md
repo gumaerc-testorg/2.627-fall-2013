@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '2011 Lecture 8: Toward a 1D Device Model, Part II: Material Fundamentals'
 uid: 22daea36-c0e4-2d25-8981-743130ce8ed2
 video_files:
