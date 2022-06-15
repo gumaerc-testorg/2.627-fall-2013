@@ -1,11 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-627-fundamentals-of-photovoltaics-fall-2013/afa785640f2e4c2d7f020a51536ebecf_dFF2DuEv-2c.srt
+file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/afa785640f2e4c2d7f020a51536ebecf_dFF2DuEv-2c.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: afa78564-0f2e-4c2d-7f02-0a51536ebecf
+video_metadata:
+  youtube_id: null
 ---

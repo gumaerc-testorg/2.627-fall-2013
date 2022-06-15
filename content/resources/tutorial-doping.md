@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Tutorial Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Pure silicon has very low conductivity. This tutorial explains how "doping," the addition of very small amounts of elements like P and B to the base silicon material, creates mobile charges that dramatically boost the material's conductivity.
 
 **Instructor:** Joe Sullivan
+
+
+

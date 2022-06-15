@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part II (PDF - 2.8MB)](resources/mit2_627f13_lec19)'
+optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part II (PDF - 2.8MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec19)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Price and Markets: What sets price (and profit), energy future and overview of renewable energy sources, economics and market dynamics. Fluctuations in supply and demand, drivers for oversupply/undersupply conditions, and what this means for profits. Subsidies: Why subsidize? How much to subsidize? Role of PV in the global energy market.
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+

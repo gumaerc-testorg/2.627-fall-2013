@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This file contains slides used in both Lectures 10 and 11.
 
 
-  [Wafer Silicon-Based Solar Cells (PDF - 2.7MB)](resources/mit2_627f13_lec10-11)'
+  [Wafer Silicon-Based Solar Cells (PDF - 2.7MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec10-11)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** Crystalline silicon solar cells. Feedstock: silicon refining, Siemens, fluidized bed reactor, metallurgical route, novel concepts. Crystal growth: ingot silicon.
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+

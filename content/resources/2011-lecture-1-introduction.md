@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Introduction (PDF - 3.7MB)](resources/mit2_627f13_lec01)'
+optional_text: '[Introduction (PDF - 3.7MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec01)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 Solar technology framework. Abridged PV history and status quo. Challenges and opportunities toward widescale PV adoption. Solar energy conversion technologies (electric, thermal, chemical).
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+

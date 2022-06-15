@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Tutorial Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** This video shows how solar cell efficiency is improved by wet etching the silicon wafer surface into microscopic "pyramids," so that more incident light is trapped within in the cell rather than reflected back into the air.
 
 **Instructor:** Joe Sullivan
+
+
+

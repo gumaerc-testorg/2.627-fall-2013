@@ -5,11 +5,11 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: "[Solar Cell Characterization (PDF)](resources/mit2_627f13_lec16)\n\
+optional_text: "[Solar Cell Characterization (PDF)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec16)\n\
   \n### Supporting Materials\n\nPaper referenced in this lecture: Kasemann, M., et\
-  \ al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[\"\
-  Progress in Silicon Solar Cell Characterization with Infrared Imaging Methods.\"\
+  \ al. [\"Progress in Silicon Solar Cell Characterization with Infrared Imaging Methods.\"\
   \ (PDF)](http://www.mpi-halle.mpg.de/mpi/publi/pdf/8470_08.pdf) Proceedings of the\
   \ 23rd European Photovoltaic Solar Energy Conference (2008): 965\u201373."
 parent_title: Lecture Videos & Slides
@@ -32,3 +32,6 @@ video_metadata:
 **Description:** Classification, function, and deliverables of solar cell characterization. JSC loss measurements: optical reflection, spectral response, minority character diffusion length. FF & VOC loss measurements: IV curves, series resistance (contact & sheet) , shunt resistance (lock-in thermography), electroluminescence.
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[PV Efficiency: Measurement and Theoretical Limits (PDF - 1.7MB)](resources/mit2_627f13_lec14)'
+optional_text: '[PV Efficiency: Measurement and Theoretical Limits (PDF - 1.7MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec14)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 Second in-class debate: Elemental Resource Abundance: Engineering Issue, Political Issues, or Non-Issue?
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+

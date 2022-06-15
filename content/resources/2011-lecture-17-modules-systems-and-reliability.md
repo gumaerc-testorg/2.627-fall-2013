@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Modules, Systems, and Reliability (PDF - 2.7MB)](resources/mit2_627f13_lec17)
+optional_text: '[Modules, Systems, and Reliability (PDF - 2.7MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec17)
 
 
   ### Supporting Materials
@@ -40,3 +41,6 @@ video_metadata:
 **Description:** Module manufacturing: encapsulation materials, availability, trends. Systems: Grid-tied and stand-alone, tracking and non-tracking. System components, including balance of systems components. Design criteria, tradeoffs, costs. Building integration, BIPV. Scaling, and power grid integration. Appropriate technology selection. Life cycle analysis. Failure: failure modes in stationary and tracking systems, accelerated testing, field testing, service and warranty contracts. Fire safety.
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+

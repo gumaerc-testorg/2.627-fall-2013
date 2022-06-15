@@ -5,15 +5,15 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Charge Separation, Part II (PDF - 2.5MB)](resources/mit2_627f13_lec06)
+optional_text: '[Charge Separation, Part II (PDF - 2.5MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec06)
 
 
   ### Supporting Material
 
 
-  Handout: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Worksheet
-  on pn-junctions under dark and illuminated conditions (PDF)](resources/mit2_627f13_lec06_handout)'
+  Handout: [Worksheet on pn-junctions under dark and illuminated conditions (PDF)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec06_handout)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -36,3 +36,6 @@ video_metadata:
 Initiate class projects: describe existing ideas and provide opportunity to pitch new ideas.
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+

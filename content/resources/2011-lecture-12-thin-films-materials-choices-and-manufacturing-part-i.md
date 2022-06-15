@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This file contains slides used in both Lectures 12 and 13.
 
 
-  [Thin Films: Materials Choices and Manufacturing (PDF - 1.8MB)](resources/mit2_627f13_lec12-13)'
+  [Thin Films: Materials Choices and Manufacturing (PDF - 1.8MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec12-13)'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Description:** Thin film advantages and disadvantages. Precursors. Deposition processes and technologies. Other technologies: concentrator devices and materials, heterojunction devices, photovoltaic thermal. Efficiency loss mechanisms of commercial thin-film devices. CdTe (cadmimum telluride) and its environmental issue.
 
 **Instructor:** Prof. Tonio Buonassisi
+
+
+
