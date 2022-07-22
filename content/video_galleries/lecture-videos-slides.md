@@ -1,8 +1,15 @@
 ---
 content_type: video_gallery
+description: 'This page contains the lecture videos and associated slides from the
+  2011 version of the course. '
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos & Slides
 uid: 7c1b3b5a-aab8-de88-cc01-54e9515ac34d
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - ffce7131-9689-1aa7-2884-1c13785bf322
