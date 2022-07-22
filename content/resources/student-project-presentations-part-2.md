@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Students give presentations on their projects: photovoltaic lights for Lighting Africa, NextGen modules, and NextGen performance simulation.
 
 This video is from the Fall 2011 version of the class.
-
-
 

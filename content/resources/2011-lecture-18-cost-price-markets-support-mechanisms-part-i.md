@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Cost, Price, Markets, & Support Mechanisms, Part I (PDF - 2.8MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec18)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Cost: Building a cost model, key drivers of cost, substitution economics. Manufacturing: Environments, models, operations, process yield, handling. Predicting shortages and bottlenecks. Scaling to multi-GWs.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

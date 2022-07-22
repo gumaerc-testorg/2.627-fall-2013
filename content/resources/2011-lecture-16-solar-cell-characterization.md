@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: "[Solar Cell Characterization (PDF)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec16)\n\
@@ -32,6 +33,4 @@ video_metadata:
 **Description:** Classification, function, and deliverables of solar cell characterization. JSC loss measurements: optical reflection, spectral response, minority character diffusion length. FF & VOC loss measurements: IV curves, series resistance (contact & sheet) , shunt resistance (lock-in thermography), electroluminescence.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

@@ -6,6 +6,7 @@ file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/49abdb020f384bb7b9e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding Worksheet on pn-junctions under dark and illuminated conditions
-

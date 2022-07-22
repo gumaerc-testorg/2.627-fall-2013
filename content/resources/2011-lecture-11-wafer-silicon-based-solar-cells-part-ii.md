@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This file contains slides used in both Lectures 10 and 11.
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** Ribbon and sheet silicon. Wafering. Cell fabrication: methods, architectures, concepts. state of the art. Efficiency loss mechanisms. Emerging trends, cutting-edge technology. Role of innovation.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

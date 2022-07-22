@@ -6,6 +6,7 @@ file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/7f52e3806b61cf85e3e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar & Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding in-class problems on PN junction band formation and ideal diode Equation.
-

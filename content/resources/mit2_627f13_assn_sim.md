@@ -6,6 +6,7 @@ file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/84282d63468fafd300c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding hypothesis testing of new wafer suppliers.
-

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This video summarizes how a solar cell turns light-induced mobile charges into electricity. It highlights the cell's physical structure with layers with different dopants, and the roles played by electric fields and diffusion of holes and electrons.
 
 **Instructor:** Joe Sullivan
-
-
 

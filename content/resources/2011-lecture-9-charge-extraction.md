@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Charge Extraction (PDF)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec09)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Schottky & Ohmic contacts. Importance of band alignment. Series and shunt resistance. Solar cell device architectures. Common limitations of efficiency, short-circuit current, fill factor, open-circuit voltage. Measurement of quantum efficiency, solar cell efficiency.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

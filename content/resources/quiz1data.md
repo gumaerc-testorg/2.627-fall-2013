@@ -5,6 +5,7 @@ file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/00868bf336ddea35fce
 file_type: application/zip
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
 ---
 
 This is a special file related to quiz 1 zip.
-

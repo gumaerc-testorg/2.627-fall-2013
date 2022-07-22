@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: 'This file contains slides used in both Lectures 10 and 11.
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** Crystalline silicon solar cells. Feedstock: silicon refining, Siemens, fluidized bed reactor, metallurgical route, novel concepts. Crystal growth: ingot silicon.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

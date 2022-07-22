@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Charge Excitation (PDF - 2.7MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec04)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Description of band gap and optical charge excitation in semiconductors. How a band gap determines maximum theoretical efficiency. Thermalization losses.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

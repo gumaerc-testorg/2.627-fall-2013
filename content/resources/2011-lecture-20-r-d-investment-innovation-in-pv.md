@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[R&D Investment & Innovation in PV (PDF - 3.7MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec20)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Innovation as a driver for PV cost reduction, learning curve. The PV technology life cycle, and differences in the US, Japanese, German, and Chinese models. How to apply what you've learned in this course to evaluate potential PV innovations.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

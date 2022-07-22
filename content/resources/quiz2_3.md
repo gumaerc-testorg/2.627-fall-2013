@@ -5,6 +5,7 @@ file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/1c53bda05989ad1a4dc
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a special file related to quiz 1 xlsx.
-

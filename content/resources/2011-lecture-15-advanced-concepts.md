@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Advanced Concepts (PDF - 2.3MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec15)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Performance in the field: temperature, shading, and mismatch. Third generation solar cells: intermediate band materials, novel thin film materials, multiband semiconductors, hot carrier devices, spectrum splitting.
 
 **Instructor:** Joseph T. Sullivan
-
-
 

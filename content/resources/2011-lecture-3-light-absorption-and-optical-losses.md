@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Light Absorption and Optical Losses (PDF - 2.3MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec03)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Photon interactions with matter. Optical losses in solar cells. Photon management strategies in PV devices (anti-reflection coatings, plasmonics, texturization, etc.)
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

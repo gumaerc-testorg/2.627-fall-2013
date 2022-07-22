@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Toward a 1D Device Model, Part I: Device Fundamentals (PDF - 2.2MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec07)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Density of occupied and unoccupied electronic states. Fermi Energy defined as chemical potential. Dispersion of electronic states.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

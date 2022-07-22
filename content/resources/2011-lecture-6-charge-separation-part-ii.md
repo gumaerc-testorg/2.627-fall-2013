@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Charge Separation, Part II (PDF - 2.5MB)](/courses/2-627-fundamentals-of-photovoltaics-fall-2013/resources/mit2_627f13_lec06)
@@ -36,6 +37,4 @@ video_metadata:
 Initiate class projects: describe existing ideas and provide opportunity to pitch new ideas.
 
 **Instructor:** Prof. Tonio Buonassisi
-
-
 

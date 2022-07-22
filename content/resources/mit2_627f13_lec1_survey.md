@@ -5,6 +5,7 @@ file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/6904e11984ec9ba755f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar & Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains the information regarding background assessment quiz.
-
