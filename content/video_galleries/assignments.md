@@ -18,7 +18,7 @@ videos:
   website: 2-627-fundamentals-of-photovoltaics-fall-2013
 ---
 
-This page presents the problem sets, a manufacturing simulation assignment, and the team project. Videos of [final project presentations]({{< baseurl >}}/pages/assignments#Final_Project) from the 2011 class are included.
+This page presents the problem sets, a manufacturing simulation assignment, and the team project. Videos of {{% resource_link "dc39f90b-bd8e-2eab-b87d-1a299ae17ea1" "final project presentations" "#Final_Project" %}} from the 2011 class are included.
 
 Problem Sets
 ------------
@@ -78,7 +78,7 @@ Green, M. A. "Design of Silicon Solar Cells." Chapter 8 in _Solar Cells: Operati
 Manufacturing Simulation
 ------------------------
 
-Download the manufacturing simulation software: [Virtual MES](https://sites.google.com/site/virtualsolarcellsinc/virtual-mes-software)
+Download the manufacturing simulation software: {{% resource_link "c4902414-136b-412b-bbd8-1012873b6b0f" "Virtual MES" %}}
 
 Assignment: {{% resource_link 84282d63-468f-afd3-00cf-6f8b25ceb46c "Hypothesis Testing of New Wafer Supplies (PDF)" %}}
 
