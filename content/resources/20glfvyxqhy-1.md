@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/3090d0b7d8ca11f1f4844cc0e9366da4_20GlFVyxqHY.pdf
+file_size: 20159
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

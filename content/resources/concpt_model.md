@@ -2,6 +2,7 @@
 content_type: resource
 description: Conceptual model of course structure.
 file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/19072bd7636e827bc31b4dd3b36d6274_concpt_model.png
+file_size: 10270
 file_type: image/png
 image_metadata:
   caption: Conceptual model of course structure.
