@@ -14,15 +14,15 @@ In the first half of the term, the course operates in a "flipped classroom" mode
 
 ## Readings Key
 
-\[PVCDROM\] = Honsberg, C., and S. Bowden. {{% resource_link "fe492906-f5e5-4c59-ab76-72ded26ebceb" "_Photovoltaics: Devices, Systems and Applications CD-ROM_" %}}. \[A free online resource.\]
+\[PVCDROM\] = Honsberg, C., and S. Bowden. [_Photovoltaics: Devices, Systems and Applications CD-ROM_](https://www.pveducation.org/pvcdrom/welcome-to-pvcdrom). \[A free online resource.\]
 
 \[Green\]= Green, M. A. _Solar Cells: Operating Principles, Technology, and System Applications_. Prentice Hall, 1981. ISBN: 9780138222703.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}LEC #{{< thclose >}}{{< thopen >}}LECTURE TOPICS & ACTIVITIES{{< thclose >}}{{< thopen >}}PREPARATION: VIDEOS & READINGS{{< thclose >}}{{< thopen >}}ASSIGNMENTS{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 1: Fundamentals of PV Devices and Systems**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}1{{< tdclose >}}{{< tdopen >}}Class Introduction; Solar Technology Framework{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}{{% resource_link 6904e119-84ec-9ba7-55f5-6ce340e92c1d "Background Assessment Quiz (PDF)" %}} (not for grade){{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}2{{< tdclose >}}{{< tdopen >}}
 The Solar Resource
 ### In-Class Activities
-{{% resource_link "e9ba5641-dcf7-48f5-aab1-39baa1c2e523" "PVWatts Calculator" %}}. National Renewable Energy Laboratory.
-\[PVCDROM\] Appendix, "{{% resource_link "1ba65ccd-c783-4cc5-ab66-4c5edb066ccb" "Standard Solar Spectra" %}}."
+[PVWatts Calculator](http://pvwatts.nrel.gov/). National Renewable Energy Laboratory.
+\[PVCDROM\] Appendix, "[Standard Solar Spectra](http://www.pveducation.org/pvcdrom/appendices/standard-solar-spectra)."
 
 {{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -31,7 +31,7 @@ The Solar Resource
 
 ### Read
 
-\[PVCDROM\] Chapter 2: {{% resource_link "7415a5ce-1820-4dd0-b3d1-7648899ef6ab" "Properties of Sunlight" %}}.
+\[PVCDROM\] Chapter 2: [Properties of Sunlight](http://www.pveducation.org/pvcdrom/properties-of-sunlight/properties-of-light).
 
 \[Green\] Chapter 1: Solar Cells and Sunlight.
 
@@ -45,7 +45,7 @@ The Solar Resource
 
 ### Read
 
-\[PVCDROM\] Chapter 3: {{% resource_link "efac6dcf-6118-4a28-afc1-a9fd344856cf" "PN Junction" %}}.
+\[PVCDROM\] Chapter 3: [PN Junction](http://pveducation.org/pvcdrom/3-pn-junction/introduction-to-semiconductors).
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}4{{< tdclose >}}{{< tdopen >}}Charge Excitation{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -74,7 +74,7 @@ Problem set 2 out
 
 ### Read
 
-\[PVCDROM\] Chapter 3: {{% resource_link "efac6dcf-6118-4a28-afc1-a9fd344856cf" "PN Junction" %}}.
+\[PVCDROM\] Chapter 3: [PN Junction](http://pveducation.org/pvcdrom/3-pn-junction/introduction-to-semiconductors).
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}6{{< tdclose >}}{{< tdopen >}}
 Charge Separation II
@@ -105,7 +105,7 @@ Advanced Semiconductor Physics
 
 ### Read
 
-Schroder, D. K. "{{% resource_link "f9051bf8-7d01-44fd-ae2c-c729d5dd7f71" "Solar Cell Contact Resistance–A Review" %}}." _IEEE Transactions Electron Devices_ 31, no. 5 (1984): 637–47.
+Schroder, D. K. "[Solar Cell Contact Resistance–A Review](http://dx.doi.org/10.1109/T-ED.1984.21583)." _IEEE Transactions Electron Devices_ 31, no. 5 (1984): 637–47.
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}8{{< tdclose >}}{{< tdopen >}}Materials Properties Affecting Performance{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -128,14 +128,14 @@ Quiz 1 out
 
 McEvoy, A., T. Markvart, and Luis Castañer, eds. _Solar Cells: Materials, Manufacture and Operation_. 2nd ed. Academic Press, 2012. ISBN: 9780123869647.
 
-- Cuevas, A., D. Macdonald and R. A Sinton. Chapter IIA-1: "{{% resource_link "78e4daa7-7d79-4b0d-a947-3bc3adbec3a8" "Characterization and Diagnosis of Silicon Wafers, Ingots, and Solar Cells" %}}."
-- Verlinden, P. J. Chapter IC-5: "{{% resource_link "101a6eb6-f1b9-45bd-ace0-35c7d8fb9a2b" "High-Efficiency Back-Contact Silicon Solar Cells for One-Sun and Concentrator Applications" %}}."
+- Cuevas, A., D. Macdonald and R. A Sinton. Chapter IIA-1: "[Characterization and Diagnosis of Silicon Wafers, Ingots, and Solar Cells](http://dx.doi.org/10.1016/B978-0-12-386964-7.00015-9)."
+- Verlinden, P. J. Chapter IC-5: "[High-Efficiency Back-Contact Silicon Solar Cells for One-Sun and Concentrator Applications](http://dx.doi.org/10.1016/B978-0-12-386964-7.00011-1)."
 
 Luque, A., and S. Hegedus, eds. Chapters in _Handbook of Photovoltaic Science and Engineering_. 2nd ed. John Wiley & Sons, Ltd., 2011. ISBN: 9780470721698.
 
-- Ceccaroli, B., and O. Lohne. Excerpt of Chapter 5: "{{% resource_link "069005ee-ccae-455c-b3e3-2fb56a492ca2" "Solar Grade Silicon Feedstock" %}}." pp. 169–93.
-- Rodriguez, H., I. Geurrero, et al. Excerpt of Chapter 6: "{{% resource_link "cf4665dc-0ca2-4f2e-b89b-f7c3403f4123" "Bulk Crystal Growth and Wafering for PV" %}}." pp. 218–39.
-- Tobias, I., C. del Canizo, and J. Alonso. Excerpt of Chapter 7:  "{{% resource_link "f0701ceb-d45a-446a-a38a-99f0396dd383" "Crystalline Silicon Solar Cells and Modules" %}}." pp. 265–89.
+- Ceccaroli, B., and O. Lohne. Excerpt of Chapter 5: "[Solar Grade Silicon Feedstock](http://dx.doi.org/10.1002/9780470974704.ch5)." pp. 169–93.
+- Rodriguez, H., I. Geurrero, et al. Excerpt of Chapter 6: "[Bulk Crystal Growth and Wafering for PV](http://dx.doi.org/10.1002/9780470974704.ch6)." pp. 218–39.
+- Tobias, I., C. del Canizo, and J. Alonso. Excerpt of Chapter 7:  "[Crystalline Silicon Solar Cells and Modules](http://dx.doi.org/10.1002/9780470974704.ch7)." pp. 265–89.
 
 {{< tdclose >}}{{< tdopen >}}Project: organized first meetings with mentors outside of normal class time.{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}11{{< tdclose >}}{{< tdopen >}}Commercial Technologies: Silicon II{{< tdclose >}}{{< tdopen >}}
 ### Watch Fall 2011 Lecture Video in OCW
@@ -159,7 +159,7 @@ Tour of the MIT solar installation
 {{< tdclose >}}{{< tdopen >}}
 ### Read
 
-MIT Energy Initiative. "{{% resource_link "fd8f98a5-e877-4d5a-9014-61c9ab8f83d3" "Student Project Identifies Improvements for Campus PVs" %}}," _MIT News_, November 30, 2011.
+MIT Energy Initiative. "[Student Project Identifies Improvements for Campus PVs](http://newsoffice.mit.edu/2011/student-project-campus-solar)," _MIT News_, November 30, 2011.
 
 {{< tdclose >}}{{< tdopen >}}
 Homework 4 due
@@ -170,7 +170,7 @@ Homework 5 out
 Homework 5 due
 Project team check-in
 
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}16{{< tdclose >}}{{< tdopen >}}Field trip to {{% resource_link "fa7fe3ba-289f-48ef-85d3-a52c4b1ee7e9" "Fraunhofer CSE" %}}{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 3: Cross-Cutting Themes**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}17{{< tdclose >}}{{< tdopen >}}Troubleshooting Photoelectric Conversion Efficiency Losses{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}16{{< tdclose >}}{{< tdopen >}}Field trip to [Fraunhofer CSE](https://www.bau.fraunhofer.de/en/fab/CSE.html){{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}**Unit 3: Cross-Cutting Themes**{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}17{{< tdclose >}}{{< tdopen >}}Troubleshooting Photoelectric Conversion Efficiency Losses{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}
 Quiz 2 due
 Project team check-in
 
@@ -181,11 +181,11 @@ Guest lecture "Silicon solar cell manufacturing costs" by K. V. Ravi
 {{< tdclose >}}{{< tdopen >}}
 ### Read
 
-Powell, D. M. , M. T. Winkler, et al. "{{% resource_link "4513570e-f46e-43af-a009-985721a1e5c8" "Crystalline Silicon Photovoltaics: A Cost Analysis Framework for Determining Technology Pathways to Reach Baseload Electricity Costs" %}}." _Energy & Environmental Science_ 5, no. 3 (2012): 5874–83.
+Powell, D. M. , M. T. Winkler, et al. "[Crystalline Silicon Photovoltaics: A Cost Analysis Framework for Determining Technology Pathways to Reach Baseload Electricity Costs](http://dx.doi.org/10.1039/C2EE03489A)." _Energy & Environmental Science_ 5, no. 3 (2012): 5874–83.
 
-———. "{{% resource_link "b5750b8f-f880-4dab-8895-6a1e198a3973" "Modeling the Cost and Minimum Sustainable Price of Crystalline Silicon Photovoltaic Manufacturing in the United States" %}}." _IEEE Journal of Photovoltaics_ 3, no. 2 (2013): 662–68.
+———. "[Modeling the Cost and Minimum Sustainable Price of Crystalline Silicon Photovoltaic Manufacturing in the United States](http://dx.doi.org/10.1109/JPHOTOV.2012.2230056)." _IEEE Journal of Photovoltaics_ 3, no. 2 (2013): 662–68.
 
-Goodrich, A. C., D. M. Powell, et al. "{{% resource_link "1bfee7c0-3ad5-48bc-843b-8e347afbbaed" "Assessing the Drivers of Regional Trends in Solar Photovoltaic Manufacturing" %}}." _Energy & Environmental Science_ 6, no. 10 (2013): 2811–21.
+Goodrich, A. C., D. M. Powell, et al. "[Assessing the Drivers of Regional Trends in Solar Photovoltaic Manufacturing](http://dx.doi.org/10.1039/C3EE40701B)." _Energy & Environmental Science_ 6, no. 10 (2013): 2811–21.
 
 {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}19{{< tdclose >}}{{< tdopen >}}Modules, Systems, and Reliability{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}Project team check-in{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}20{{< tdclose >}}{{< tdopen >}}Price, Markets, and Subsidies{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}21{{< tdclose >}}{{< tdopen >}}Guest lecture by DOE SunShot Program Manager Lidija Sekaric{{< tdclose >}}{{< tdopen >}} {{< tdclose >}}{{< tdopen >}}
 Project team check-in
