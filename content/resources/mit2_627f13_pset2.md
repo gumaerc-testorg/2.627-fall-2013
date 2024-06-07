@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding Problem set 2.
 file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/88129284e0efa2fdb056b3190fd7fd82_MIT2_627F13_pset2.pdf
+file_size: 500675
 file_type: application/pdf
 learning_resource_types:
 - Assignments

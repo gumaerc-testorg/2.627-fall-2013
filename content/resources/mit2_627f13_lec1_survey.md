@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding background assessment quiz.
 file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/6904e11984ec9ba755f56ce340e92c1d_MIT2_627F13_lec1_survey.pdf
+file_size: 217814
 file_type: application/pdf
 learning_resource_types:
 - Readings
