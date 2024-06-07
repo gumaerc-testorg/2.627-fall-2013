@@ -2,6 +2,7 @@
 content_type: resource
 description: "\r\nThis is a special file related to quiz 1 zip."
 file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/00868bf336ddea35fce09d476cf39d00_Quiz1data.zip
+file_size: 3541
 file_type: application/zip
 learning_resource_types:
 - Exams
