@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-627-fundamentals-of-photovoltaics-fall-2013/bdbc093ceb10abe0b3ac3a03a8c45415_n25tsUQb3vo.pdf
+file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/bdbc093ceb10abe0b3ac3a03a8c45415_n25tsUQb3vo.pdf
 file_size: 134932
 file_type: application/pdf
 learning_resource_types: []
