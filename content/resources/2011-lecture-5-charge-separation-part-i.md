@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 277458866
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -25,7 +25,7 @@ start_time: ''
 title: '2011 Lecture 5: Charge Separation, Part I '
 uid: d7f3ad59-98a0-a593-ce88-2689a22f44be
 video_files:
-  archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec05_300k.mp4 '
+  archive_url: https://ia600708.us.archive.org/29/items/MIT2.627F11/MIT2_627F11_lec05_300k.mp4
   video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/d0ba63a835905e5eae0d4a71f29967c3_uLbqhIp3ahc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/uLbqhIp3ahc/default.jpg
   video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/a0592dde6a3df0a47fbdb80f854fbc6f_uLbqhIp3ahc.pdf
