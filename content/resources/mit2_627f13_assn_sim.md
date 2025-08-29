@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding hypothesis testing of new
   wafer suppliers.
-file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/84282d63468fafd300cf6f8b25ceb46c_MIT2_627F13_assn_sim.pdf
+file: /ol-ocw-studio-app/courses/2-627-fundamentals-of-photovoltaics-fall-2013/84282d63468fafd300cf6f8b25ceb46c_MIT2_627F13_assn_sim.pdf
 file_size: 154852
 file_type: application/pdf
 learning_resource_types:

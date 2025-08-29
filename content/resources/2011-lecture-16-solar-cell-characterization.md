@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 214809752
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -23,7 +23,7 @@ start_time: ''
 title: '2011 Lecture 16: Solar Cell Characterization '
 uid: be2f5c2b-359a-02db-0d0d-29507e314aaf
 video_files:
-  archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec16_300k.mp4 '
+  archive_url: https://ia600708.us.archive.org/29/items/MIT2.627F11/MIT2_627F11_lec16_300k.mp4
   video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/a286fbb431885356aa4a118abdf8ec04_yHzpj_MDOdk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/yHzpj_MDOdk/default.jpg
   video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/6e745316d45d8ddf2823b3bc72425721_yHzpj_MDOdk.pdf

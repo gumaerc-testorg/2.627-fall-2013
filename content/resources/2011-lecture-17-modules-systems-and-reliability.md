@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 241114562
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -32,7 +32,7 @@ start_time: ''
 title: '2011 Lecture 17: Modules, Systems, and Reliability'
 uid: 0914a6dc-507c-4683-d099-14424f02eed6
 video_files:
-  archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec17_300k.mp4 '
+  archive_url: https://ia600708.us.archive.org/29/items/MIT2.627F11/MIT2_627F11_lec17_300k.mp4
   video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/8458aac0265b54d88a58d023134a08d5_C42jXQLc_Jo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/C42jXQLc_Jo/default.jpg
   video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/73f27c92d20990b39dd2169ee6e799d1_C42jXQLc_Jo.pdf
