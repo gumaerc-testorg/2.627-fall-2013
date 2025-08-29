@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 178579505
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: '2011 Lecture 15: Advanced Concepts '
 uid: 9d1816dd-e3bb-bd91-6a46-5cc5f4a43640
 video_files:
-  archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec15_300k.mp4 '
+  archive_url: https://ia600708.us.archive.org/29/items/MIT2.627F11/MIT2_627F11_lec15_300k.mp4
   video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/b0f4a6e53a4856ecb3e17621fbd2a7cf_FLbfYpkSZ84.vtt
   video_thumbnail_file: https://img.youtube.com/vi/FLbfYpkSZ84/default.jpg
   video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/8eb7ef0effd13fd9e33967a084828c68_FLbfYpkSZ84.pdf

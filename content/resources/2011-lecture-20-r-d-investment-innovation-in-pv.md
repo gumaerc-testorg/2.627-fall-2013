@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 205969746
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: '2011 Lecture 20: R&D Investment & Innovation in PV '
 uid: 1e6eb884-470d-324f-7c10-6afffae98202
 video_files:
-  archive_url: 'http://www.archive.org/download/MIT2.627F11/MIT2_627F11_lec20_300k.mp4 '
+  archive_url: https://ia600708.us.archive.org/29/items/MIT2.627F11/MIT2_627F11_lec20_300k.mp4
   video_captions_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/f789d6abf20259fdb53c8f4155550c6f_c4jP3XCZ4Sw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/c4jP3XCZ4Sw/default.jpg
   video_transcript_file: /courses/2-627-fundamentals-of-photovoltaics-fall-2013/0f5ea45ec393367736f371a0cc5ed4a3_c4jP3XCZ4Sw.pdf
