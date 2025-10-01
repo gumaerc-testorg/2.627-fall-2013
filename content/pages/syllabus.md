@@ -57,9 +57,9 @@ In turn, I expect each student to do her / his part: attend and participate in l
 
 ## Staffing
 
-This class is primarily taught by Prof. Tonio Buonassisi and with TAs Stephanie Scott and Dr. Tim Kirkpatrick. Other members of the [MIT PVLab](http://pv.mit.edu/) occasionally teach labs and deep dive tutorials.
+This class is primarily taught by Prof. Tonio Buonassisi and with TAs Stephanie Scott and Dr. Tim Kirkpatrick. Other members of the {{% resource_link "3b33b979-8dc1-4198-9721-11f936923755" "MIT PVLab" %}} occasionally teach labs and deep dive tutorials.
 
-Prof. Buonassisi's research is focused on bringing photovoltaics mainstream via technology innovations. Prior to joining the faculty at MIT, Prof. Buonassisi worked at a local solar energy start-up (Evergreen Solar, Inc.), and he continues to interact with a wide range of companies today. Buonassisi co-developed a similar semester–long course on photovoltaics at UC Berkeley, and month-long mini-courses during the MIT IAP periods of 2006 and 2007, which attracted over fifty participants across various disciplines. For more information about Buonassisi and the PVLab, see the [PVLab website](http://pv.mit.edu/).
+Prof. Buonassisi's research is focused on bringing photovoltaics mainstream via technology innovations. Prior to joining the faculty at MIT, Prof. Buonassisi worked at a local solar energy start-up (Evergreen Solar, Inc.), and he continues to interact with a wide range of companies today. Buonassisi co-developed a similar semester–long course on photovoltaics at UC Berkeley, and month-long mini-courses during the MIT IAP periods of 2006 and 2007, which attracted over fifty participants across various disciplines. For more information about Buonassisi and the PVLab, see the {{% resource_link "3b33b979-8dc1-4198-9721-11f936923755" "PVLab website" %}}.
 
 Stephanie is a second-year graduate student in Mechanical Engineering. Her research focuses on modeling impurity evolution during high-temperature processing in silicon–based photovoltaic materials. Stephanie received a B.S. in Mechanical Engineering from the University of California at Berkeley in 2012.
 
@@ -69,23 +69,23 @@ Visiting lecturers may be drawn from surrounding companies, universities, analys
 
 ## Textbook
 
-Honsberg, C., and S. Bowden. [_Photovoltaics: Devices, Systems and Applications CD-ROM_](https://www.pveducation.org/pvcdrom/welcome-to-pvcdrom). \[A free online resource.\]
+Honsberg, C., and S. Bowden. {{% resource_link "233a6b9d-4b38-4b06-8056-8ceb3cddb6ce" "_Photovoltaics: Devices, Systems and Applications CD-ROM_" %}}. \[A free online resource.\]
 
 ## References and Reading Material
 
 ### Books about Solar Cells:
 
-Wenham, S., M. Green, et al., eds. _Applied Photovoltaics_. 2nd ed. Routledge, 2006. ISBN: 9781844074013. \[Preview with [Google Books](http://books.google.com/books?id=O3V-D5U3cWMC&pg=PAfrontcover)\]
+Wenham, S., M. Green, et al., eds. _Applied Photovoltaics_. 2nd ed. Routledge, 2006. ISBN: 9781844074013. \[Preview with {{% resource_link "7d1dc25f-4839-412a-a7a6-78b162726d7e" "Google Books" %}}\]
 
-Luque, A., and S. Hegedus, eds. [_Handbook of Photovoltaic Science and Engineering_](http://dx.doi.org/10.1002/0470014008). John Wiley & Sons, Ltd, 2003. ISBN: 9780471491965.
+Luque, A., and S. Hegedus, eds. {{% resource_link "eb5963ce-b2f6-44ce-bac9-7dab967eee41" "_Handbook of Photovoltaic Science and Engineering_" %}}. John Wiley & Sons, Ltd, 2003. ISBN: 9780471491965.
 
 ### Books about Solid-state Physics
 
-Yu, P., and M. Cardona. _Fundamentals of Semiconductors: Physics and Materials Properties_. 3rd ed. Springer, 2004. ISBN: 9783540413233. \[Preview with [Google Books](http://books.google.com/books?id=dFAZPrWXNFEC&pg=PAfrontcover)\]
+Yu, P., and M. Cardona. _Fundamentals of Semiconductors: Physics and Materials Properties_. 3rd ed. Springer, 2004. ISBN: 9783540413233. \[Preview with {{% resource_link "46bf81b9-80b7-41c5-b8e5-99db4557b9d9" "Google Books" %}}\]
 
 ### Review Articles
 
-Kazmerski, L. "[Solar Photovoltaics R&D at the Tipping Point: A 2005 Technology Overview](http://dx.doi.org/10.1016/j.elspec.2005.09.004)." J\_ournal of Electron Spectroscopy and Related Phenomena\_ 150, no. 2–3 (2006): 105–35.
+Kazmerski, L. "{{% resource_link "14a50d59-6cef-4484-8471-a2301e033899" "Solar Photovoltaics R&D at the Tipping Point: A 2005 Technology Overview" %}}." J\_ournal of Electron Spectroscopy and Related Phenomena\_ 150, no. 2–3 (2006): 105–35.
 
 ### Books about Solar Cells:
 
@@ -95,11 +95,11 @@ Bube, R. _Photovoltaic Materials._ World Scientific Publishing Company, 1998. IS
 
 Green, M. _Silicon Solar Cells: Advanced Principles and Practice_. Centre Photovoltaic Devices & Systems, 1995. ISBN: 9780733409943.
 
-Poortmans, J., and V. Arkhipov. _Thin Film Solar Cells: Fabrication, Characterization and Applications_. 1st ed. Wiley-Blackwell, 2006. ISBN: 9780470091265. \[Preview with [Google Books](http://books.google.com/books?id=SvVYBK6YAxAC&pg=PAfrontcover)\]
+Poortmans, J., and V. Arkhipov. _Thin Film Solar Cells: Fabrication, Characterization and Applications_. 1st ed. Wiley-Blackwell, 2006. ISBN: 9780470091265. \[Preview with {{% resource_link "bcb46373-9993-4582-a54f-b55d5b32d287" "Google Books" %}}\]
 
 ### Books about Semiconductor Device Characterization
 
-Schroder, D. _Semiconductor Material and Device Characterization_. 2nd ed. Wiley-Interscience, 1998. ISBN: 9780471241393. \[Preview with [Google Books](http://books.google.com/books?id=OX2cHKJWCKgC&pg=PAfrontcover)\]
+Schroder, D. _Semiconductor Material and Device Characterization_. 2nd ed. Wiley-Interscience, 1998. ISBN: 9780471241393. \[Preview with {{% resource_link "028f81aa-3ac8-445e-9abd-aea8a8b8ce6f" "Google Books" %}}\]
 
 ### Books about Solid-state Physics
 

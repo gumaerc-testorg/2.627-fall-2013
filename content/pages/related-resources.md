@@ -14,6 +14,6 @@ In 2018, Prof. Buonassisi convened the **Accelerated Materials Development for M
 
 {{< resource e09ed427-52a4-3d3e-bf6f-58461bfb0d1f >}}
 
-This video is provided by [Accelerated Materials Development](https://www.youtube.com/channel/UCxaokYYzFI9XPOUP_W_sD9g) via YouTube, and is not covered by our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334).
+This video is provided by {{% resource_link "528ffe1f-f85b-4ceb-a612-c0770d7ede6a" "Accelerated Materials Development" %}} via YouTube, and is not covered by our [Creative Commons license](./resolveuid/e7db8a8f17363f805bbf706e613d0334).
 
-See all the videos about this project on the [Accelerated Materials Development YouTube channel](https://www.youtube.com/channel/UCxaokYYzFI9XPOUP_W_sD9g).
+See all the videos about this project on the {{% resource_link "528ffe1f-f85b-4ceb-a612-c0770d7ede6a" "Accelerated Materials Development YouTube channel" %}}.
