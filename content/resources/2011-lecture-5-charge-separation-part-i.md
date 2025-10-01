@@ -15,7 +15,8 @@ optional_text: '[Charge Separation, Part I (PDF - 3.0MB)](/courses/2-627-fundame
   _Supporting Material_
 
 
-  [PC1D solar cell modeling program](https://www.engineering.unsw.edu.au/energy-engineering/research/software-data-links/pc1d-software-for-modelling-a-solar-cell)'
+  {{% resource_link "e0e1566a-b3ca-4522-801e-fc5cbf53ca5b" "PC1D solar cell modeling
+  program" %}}'
 parent_title: Lecture Videos & Slides
 parent_type: CourseSection
 related_resources_text: ''
